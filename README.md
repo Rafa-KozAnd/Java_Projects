@@ -5,7 +5,7 @@
 - Languages: Java;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: ;
-- Obs: Example;
+- Obs: ;
 - Version: v.1.1.5
 
 
