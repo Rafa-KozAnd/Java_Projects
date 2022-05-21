@@ -1,17 +1,15 @@
 # Base_Model
 
-- Project Name: 'Name_Git';
-- Status: (Concluded, Updated, Under Development, Filed);
-- Languages: ('Python', 'C#', 'JavaScript', ...);
-- Softwares/Work Tools: ('V.S. Code', 'ATOM', ...);
-- Resume: (About_the_Repository);
+- Project Name: Java Projects;
+- Status: Under Development;
+- Languages: Java;
+- Softwares/Work Tools: 'V.S. Code';
+- Resume: ;
 - Obs: Example;
-- Version: v.1.2.5
-<div>
-  <img align="center" height="150" widht="150" src="/Print/Version.png" />
-</div><br>
+- Version: v.1.1.5
 
-- Last Update Date: ??/??/20??.
+
+- Last Update Date: 21/05/2022.
 
 ##
 
