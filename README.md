@@ -12,5 +12,3 @@
 - Last Update Date: 23/09/2022.
 
 ##
-
-- Prints: [IMG]. [IMG];
