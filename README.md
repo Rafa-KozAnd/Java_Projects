@@ -1,7 +1,7 @@
 # Java_Projects
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=Under_Development&color=green&style=flat"/>
 </p>
 
 <p align="center">
