@@ -14,9 +14,9 @@
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: ;
 - Obs: ;
-- Version: v.1.1.5
+- Version: v.1.2.5
 
 
-- Last Update Date: 23/11/2022.
+- Last Update Date: 26/08/2023.
 
 ##
