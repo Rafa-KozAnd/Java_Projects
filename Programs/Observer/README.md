@@ -1,7 +1,7 @@
 # Observer
 
 - Project Name: Observer;
-- Status: Under Development;
+- Status: Concluded;
 - Languages: Java;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: ;
